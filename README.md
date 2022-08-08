@@ -12,11 +12,11 @@
 ---
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on my personal website: www.fangzhuoxi.com
+- 🔭 I’m currently working on **my personal website**: www.fangzhuoxi.com
 - 🌱 I’m currently learning **Data Structure And Algorithms** 
 - 📫 How to reach me: fangzhuoxi1123@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Hobbies: Ski, Pilates and Travel
+- 😄 Pronouns: **she/her**
+- ⚡ Hobbies: **Ski, Pilates and Travel**
 
 
 ### :building_construction: Recent Projects :
