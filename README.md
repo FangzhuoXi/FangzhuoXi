@@ -12,9 +12,10 @@
 ---
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on **my personal website**: www.fangzhuoxi.com
-- 🌱 I’m currently learning **Data Structure And Algorithms** 
+- 🔭 I’m currently working on **leetcode questions**
+- 🌱 I’m currently learning **AWS** 
 - 📫 How to reach me: fangzhuoxi1123@gmail.com
+- 👩🏻‍💻 website: www.fangzhuoxi.com
 - 😄 Pronouns: **she/her**
 - ⚡ Hobbies: **Ski, Pilates and Travel**
 
