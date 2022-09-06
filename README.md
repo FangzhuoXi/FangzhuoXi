@@ -24,7 +24,7 @@
 
 - [Buskin: an application for street performers and fans](https://github.com/Blue-Tang-Clan)
 - [Atelier: an E-Commerce site for clothes](https://github.com/FangzhuoXi/FEC_Lighthouse)
-- [Atelier API: re-design of the back end for Atelier website to handle large data and traffic](https://github.com/FangzhuoXi/Q-A)
+- [Atelier API: re-design of the back end for Atelier website to handle large data and traffic](https://github.com/SDC-Egrets/Egrets-Q-A)
 
 
 ### :hammer_and_wrench: Languages and Tools :
