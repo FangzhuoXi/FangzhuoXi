@@ -13,7 +13,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on **leetcode questions**
-- 🌱 I’m currently learning **GraphQL** 
+- 🌱 I’m currently learning **GraphQL, TypeScript** 
 - 📫 How to reach me: fangzhuoxi1123@gmail.com
 - 👩🏻‍💻 website: www.fangzhuoxi.com
 - 😄 Pronouns: **she/her**
